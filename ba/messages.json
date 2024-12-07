@@ -1,0 +1,200 @@
+[
+  {
+    "from": "ayat",
+    "to": "yazan",
+    "message": ""
+  },
+  {
+    "from": "ayat",
+    "to": "mohammad",
+    "message": ""
+  },
+  {
+    "from": "yazan",
+    "to": "ayat",
+    "message": ""
+  },
+  {
+    "from": "yazan",
+    "to": "mohammad",
+    "message": ""
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": ""
+  },
+  {
+    "from": "mohammad",
+    "to": "ayat",
+    "message": ""
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "audioUrl": "blob:http://localhost:3000/5b3cd765-f3a7-488e-b501-a577cfd8df14"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "audioUrl": "blob:http://localhost:3000/7c594086-7e86-41f0-935f-a8edc27f50ef"
+  },
+  {
+    "from": "yazan",
+    "to": "mohammad",
+    "audioUrl": "blob:http://localhost:3000/da78cb47-37ac-4eb0-a5b7-bf095374f771"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "nknkk"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "hii"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "helooooooo"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": ".............."
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "test"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "........"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "."
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "."
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "."
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "."
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "."
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "."
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "..........."
+  },
+  {
+    "from": "yazan",
+    "to": "mohammad",
+    "message": "test"
+  },
+  {
+    "from": "yazan",
+    "to": "mohammad",
+    "message": "hi"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "hi"
+  },
+  {
+    "from": "yazan",
+    "to": "",
+    "message": " hiii ❤️"
+  },
+  {
+    "from": "yazan",
+    "to": "",
+    "message": "",
+    "imageUrl": "http://localhost:4000/uploads/1730374883978-images.png"
+  },
+  {
+    "from": "yazan",
+    "to": "",
+    "audioUrl": "blob:http://localhost:3000/c2f6ac35-bb4a-448f-891f-239134fb433c"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "ffghjk"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "😀"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "",
+    "imageUrl": "http://localhost:4000/uploads/1730404283000-3d_logo_mockup_on_marble.jpg"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "audioUrl": "blob:http://localhost:3000/a89ad504-a708-4d0a-8abc-ea3b6c95d8f0"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "hi"
+  },
+  {
+    "from": "yazan",
+    "to": "mohammad",
+    "message": "😀"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "message": "",
+    "imageUrl": "http://localhost:4000/uploads/1730656976129-mongoDB.png"
+  },
+  {
+    "from": "yazan",
+    "to": "mohammad",
+    "audioUrl": "blob:http://localhost:3000/3ab6ce85-2b70-483a-b6c9-6fed4ae43c7a"
+  },
+  {
+    "from": "yazan",
+    "to": "mohammad",
+    "audioUrl": "blob:http://localhost:3000/54e1a783-7749-416e-b0c9-2ecdba8c8824"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "audioUrl": "blob:http://localhost:3000/9c4aafb6-0763-4b1a-9b98-376e2bd281d7"
+  },
+  {
+    "from": "mohammad",
+    "to": "yazan",
+    "audioUrl": "blob:http://localhost:3000/e259dfff-1792-44b2-a5ad-deea5c127ac1"
+  }
+]
